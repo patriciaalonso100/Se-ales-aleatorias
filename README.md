@@ -1,2 +1,2 @@
 # Señales aleatorias
-Código matlab para calcular la probabilidad de error de símbolo.
+Matlab code to calculate the symbol error probability.
